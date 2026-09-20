@@ -1,0 +1,181 @@
+ticket_number,client,title,priority,status,assigned_to,created,completed
+T20260001,Apex Aero Parts,Server disk space alert,High,Complete,C. Okafor,2026-09-11 20:06,2026-09-12 01:29
+T20260002,Northfield Machining,MFA enrollment,Medium,Complete,A. Rivera,2026-09-17 09:49,2026-09-17 11:16
+T20260003,Northfield Machining,Server disk space alert,Low,Complete,A. Rivera,2026-09-09 17:28,2026-09-11 18:50
+T20260004,Huron Logistics,Printer offline,Critical,Complete,A. Rivera,2026-09-06 08:28,2026-09-06 08:54
+T20260005,Birch CPA Group,New user onboarding,Medium,Complete,C. Okafor,2026-09-07 07:02,2026-09-07 09:12
+T20260006,Birch CPA Group,Workstation slow,Medium,Complete,A. Rivera,2026-09-10 19:41,2026-09-11 00:17
+T20260007,Lakeside Dental,VPN not connecting,Medium,Waiting Customer,,2026-09-18 04:48,
+T20260008,Northfield Machining,VPN not connecting,Medium,Complete,B. Chen,2026-09-12 07:58,2026-09-13 02:45
+T20260009,Northfield Machining,MFA enrollment,High,Waiting Customer,B. Chen,2026-09-16 06:15,
+T20260010,Huron Logistics,VPN not connecting,Low,Complete,B. Chen,2026-09-02 02:05,2026-09-03 12:24
+T20260011,Apex Aero Parts,Server disk space alert,Low,Complete,B. Chen,2026-09-01 00:29,2026-09-01 03:37
+T20260012,Northfield Machining,Firewall rule change,Low,Complete,A. Rivera,2026-08-28 19:28,2026-08-31 02:42
+T20260013,Lakeside Dental,Workstation slow,Medium,Complete,B. Chen,2026-09-11 04:12,2026-09-11 10:58
+T20260014,Lakeside Dental,Workstation slow,Low,Complete,A. Rivera,2026-09-10 10:21,2026-09-12 02:12
+T20260015,Lakeside Dental,Printer offline,Medium,Complete,B. Chen,2026-08-31 12:24,2026-09-02 07:31
+T20260016,Lakeside Dental,Email delivery delay,High,Complete,C. Okafor,2026-09-16 21:15,2026-09-17 09:42
+T20260017,Lakeside Dental,MFA enrollment,High,Complete,B. Chen,2026-09-12 17:11,2026-09-12 19:52
+T20260018,Birch CPA Group,Workstation slow,Medium,Complete,C. Okafor,2026-08-29 17:02,2026-08-31 09:59
+T20260019,Lakeside Dental,Firewall rule change,Medium,Complete,B. Chen,2026-09-10 06:46,2026-09-10 11:00
+T20260020,Northfield Machining,Backup job failed,Medium,Complete,A. Rivera,2026-09-15 05:21,2026-09-15 08:38
+T20260021,Apex Aero Parts,Server disk space alert,High,Complete,A. Rivera,2026-09-05 18:17,2026-09-06 01:20
+T20260022,Northfield Machining,Printer offline,High,New,D. Patel,2026-09-17 10:42,
+T20260023,Lakeside Dental,MFA enrollment,Medium,Complete,B. Chen,2026-09-02 21:54,2026-09-03 12:26
+T20260024,Northfield Machining,Email delivery delay,Medium,Waiting Customer,,2026-09-17 01:14,
+T20260025,Apex Aero Parts,New user onboarding,High,Complete,D. Patel,2026-09-10 22:33,2026-09-11 09:07
+T20260026,Huron Logistics,New user onboarding,Low,Complete,D. Patel,2026-09-05 18:32,2026-09-06 08:13
+T20260027,Lakeside Dental,Server disk space alert,Medium,In Progress,C. Okafor,2026-09-17 11:24,
+T20260028,Lakeside Dental,Firewall rule change,Low,New,,2026-09-18 02:22,
+T20260029,Apex Aero Parts,VPN not connecting,Medium,Waiting Customer,,2026-09-16 09:24,
+T20260030,Huron Logistics,Backup job failed,Medium,Complete,C. Okafor,2026-09-16 02:41,2026-09-17 22:39
+T20260031,Lakeside Dental,Printer offline,Low,New,C. Okafor,2026-09-18 10:26,
+T20260032,Huron Logistics,Backup job failed,Medium,New,B. Chen,2026-09-17 04:02,
+T20260033,Lakeside Dental,Workstation slow,High,New,A. Rivera,2026-09-17 08:10,
+T20260034,Birch CPA Group,Backup job failed,High,Complete,A. Rivera,2026-09-01 07:26,2026-09-01 09:22
+T20260035,Birch CPA Group,MFA enrollment,Medium,In Progress,A. Rivera,2026-09-17 12:14,
+T20260036,Huron Logistics,Printer offline,Low,Complete,A. Rivera,2026-09-01 06:56,2026-09-02 18:40
+T20260037,Northfield Machining,MFA enrollment,Low,Complete,A. Rivera,2026-09-05 20:53,2026-09-07 21:09
+T20260038,Birch CPA Group,Password reset,Medium,Complete,B. Chen,2026-09-17 07:56,2026-09-18 13:54
+T20260039,Northfield Machining,Firewall rule change,Medium,Complete,D. Patel,2026-09-13 10:00,2026-09-14 02:30
+T20260040,Birch CPA Group,MFA enrollment,Low,Complete,C. Okafor,2026-09-11 19:12,2026-09-12 11:26
+T20260041,Apex Aero Parts,MFA enrollment,Medium,Complete,A. Rivera,2026-09-01 16:53,2026-09-03 10:38
+T20260042,Apex Aero Parts,VPN not connecting,High,Complete,B. Chen,2026-08-30 21:56,2026-08-31 01:25
+T20260043,Lakeside Dental,Backup job failed,Medium,Complete,A. Rivera,2026-09-04 13:24,2026-09-04 16:01
+T20260044,Huron Logistics,Printer offline,Low,Waiting Customer,,2026-09-17 15:48,
+T20260045,Lakeside Dental,Backup job failed,High,Complete,B. Chen,2026-09-01 04:16,2026-09-01 07:10
+T20260046,Northfield Machining,Workstation slow,Medium,Complete,A. Rivera,2026-09-11 22:46,2026-09-12 10:23
+T20260047,Lakeside Dental,VPN not connecting,Medium,Complete,B. Chen,2026-09-11 16:15,2026-09-15 04:21
+T20260048,Apex Aero Parts,Workstation slow,Medium,New,,2026-09-16 14:43,
+T20260049,Lakeside Dental,Workstation slow,Medium,Complete,B. Chen,2026-09-07 09:05,2026-09-07 15:38
+T20260050,Birch CPA Group,New user onboarding,Medium,Complete,A. Rivera,2026-08-30 20:40,2026-08-31 02:42
+T20260051,Apex Aero Parts,Server disk space alert,Low,New,B. Chen,2026-09-16 08:21,
+T20260052,Apex Aero Parts,Email delivery delay,Medium,Waiting Customer,,2026-09-18 04:43,
+T20260053,Northfield Machining,Email delivery delay,Medium,Complete,B. Chen,2026-09-02 16:58,2026-09-03 01:29
+T20260054,Huron Logistics,VPN not connecting,Critical,Waiting Customer,B. Chen,2026-09-18 00:52,
+T20260055,Lakeside Dental,New user onboarding,Medium,In Progress,B. Chen,2026-09-17 09:21,
+T20260056,Lakeside Dental,Password reset,Low,New,C. Okafor,2026-09-16 05:04,
+T20260057,Huron Logistics,MFA enrollment,Low,Complete,B. Chen,2026-09-05 12:23,2026-09-07 19:06
+T20260058,Lakeside Dental,Email delivery delay,Medium,Complete,A. Rivera,2026-09-04 13:43,2026-09-05 02:01
+T20260059,Apex Aero Parts,New user onboarding,Medium,In Progress,,2026-09-18 00:57,
+T20260060,Lakeside Dental,MFA enrollment,Medium,Complete,A. Rivera,2026-09-14 18:58,2026-09-15 16:18
+T20260061,Huron Logistics,Password reset,High,Complete,D. Patel,2026-09-02 08:33,2026-09-02 14:44
+T20260062,Birch CPA Group,Workstation slow,Medium,In Progress,A. Rivera,2026-09-18 06:15,
+T20260063,Birch CPA Group,Workstation slow,Medium,Complete,A. Rivera,2026-09-03 12:29,2026-09-03 15:37
+T20260064,Northfield Machining,Server disk space alert,Low,Complete,A. Rivera,2026-09-03 05:52,2026-09-04 16:58
+T20260065,Apex Aero Parts,VPN not connecting,Medium,In Progress,,2026-09-18 13:00,
+T20260066,Huron Logistics,Email delivery delay,Medium,Complete,C. Okafor,2026-09-01 02:34,2026-09-02 01:24
+T20260067,Northfield Machining,Firewall rule change,Low,In Progress,C. Okafor,2026-09-17 00:16,
+T20260068,Huron Logistics,Firewall rule change,Low,Complete,A. Rivera,2026-09-01 15:57,2026-09-02 05:04
+T20260069,Lakeside Dental,VPN not connecting,High,Waiting Customer,,2026-09-17 01:50,
+T20260070,Northfield Machining,Firewall rule change,Medium,Complete,C. Okafor,2026-09-15 12:50,2026-09-16 05:37
+T20260071,Apex Aero Parts,MFA enrollment,Medium,Complete,C. Okafor,2026-09-17 08:29,2026-09-18 07:00
+T20260072,Northfield Machining,Firewall rule change,Medium,New,D. Patel,2026-09-17 20:57,
+T20260073,Lakeside Dental,VPN not connecting,High,Waiting Customer,B. Chen,2026-09-17 16:28,
+T20260074,Birch CPA Group,Email delivery delay,Medium,Complete,A. Rivera,2026-09-16 17:34,2026-09-17 12:04
+T20260075,Northfield Machining,Firewall rule change,Medium,Waiting Customer,A. Rivera,2026-09-18 14:01,
+T20260076,Apex Aero Parts,Password reset,Medium,Complete,A. Rivera,2026-09-09 04:16,2026-09-09 11:51
+T20260077,Apex Aero Parts,Email delivery delay,Medium,In Progress,B. Chen,2026-09-18 14:48,
+T20260078,Northfield Machining,Email delivery delay,Medium,New,D. Patel,2026-09-16 18:32,
+T20260079,Apex Aero Parts,New user onboarding,Medium,In Progress,C. Okafor,2026-09-17 13:32,
+T20260080,Birch CPA Group,MFA enrollment,Medium,Complete,A. Rivera,2026-09-02 04:04,2026-09-02 14:17
+T20260081,Apex Aero Parts,Firewall rule change,High,New,,2026-09-18 07:15,
+T20260082,Apex Aero Parts,Email delivery delay,Medium,Complete,A. Rivera,2026-08-30 12:18,2026-08-30 18:55
+T20260083,Lakeside Dental,VPN not connecting,High,Complete,B. Chen,2026-09-10 02:40,2026-09-10 03:34
+T20260084,Huron Logistics,Workstation slow,Low,New,B. Chen,2026-09-16 04:12,
+T20260085,Apex Aero Parts,Email delivery delay,High,Complete,A. Rivera,2026-09-07 03:27,2026-09-07 06:09
+T20260086,Lakeside Dental,Workstation slow,High,In Progress,A. Rivera,2026-09-16 19:07,
+T20260087,Lakeside Dental,VPN not connecting,High,In Progress,A. Rivera,2026-09-17 09:32,
+T20260088,Northfield Machining,Printer offline,Medium,Complete,C. Okafor,2026-08-30 19:54,2026-08-31 03:23
+T20260089,Huron Logistics,MFA enrollment,Medium,In Progress,D. Patel,2026-09-18 15:29,
+T20260090,Northfield Machining,Firewall rule change,High,Complete,A. Rivera,2026-08-29 05:57,2026-08-29 11:08
+T20260091,Northfield Machining,Email delivery delay,Low,Complete,A. Rivera,2026-09-16 20:14,2026-09-18 14:22
+T20260092,Northfield Machining,VPN not connecting,Medium,Complete,B. Chen,2026-08-29 10:53,2026-08-30 15:45
+T20260093,Northfield Machining,Password reset,Low,Complete,A. Rivera,2026-09-12 07:55,2026-09-15 14:04
+T20260094,Lakeside Dental,Firewall rule change,Low,Complete,A. Rivera,2026-09-07 08:38,2026-09-11 04:05
+T20260095,Northfield Machining,Password reset,Medium,Complete,A. Rivera,2026-09-07 14:16,2026-09-08 11:15
+T20260096,Huron Logistics,Backup job failed,Low,Complete,C. Okafor,2026-09-14 13:21,2026-09-15 02:17
+T20260097,Lakeside Dental,Password reset,Critical,Complete,B. Chen,2026-09-13 20:55,2026-09-14 00:22
+T20260098,Apex Aero Parts,New user onboarding,Medium,Complete,B. Chen,2026-09-01 22:04,2026-09-04 20:06
+T20260099,Huron Logistics,Server disk space alert,High,Complete,D. Patel,2026-09-13 18:54,2026-09-14 16:08
+T20260100,Lakeside Dental,Workstation slow,High,Complete,B. Chen,2026-09-14 16:46,2026-09-15 13:34
+T20260101,Lakeside Dental,Workstation slow,Critical,Complete,C. Okafor,2026-09-17 11:39,2026-09-17 15:22
+T20260102,Lakeside Dental,Backup job failed,Medium,Complete,B. Chen,2026-09-09 04:49,2026-09-09 06:29
+T20260103,Huron Logistics,Backup job failed,Medium,Complete,B. Chen,2026-09-14 15:05,2026-09-14 22:33
+T20260104,Huron Logistics,VPN not connecting,Medium,Complete,A. Rivera,2026-08-28 23:33,2026-08-29 01:14
+T20260105,Huron Logistics,VPN not connecting,Low,Complete,B. Chen,2026-09-06 20:45,2026-09-07 15:12
+T20260106,Huron Logistics,Password reset,Medium,Waiting Customer,B. Chen,2026-09-17 17:49,
+T20260107,Northfield Machining,Password reset,Low,Complete,D. Patel,2026-09-10 00:22,2026-09-10 02:08
+T20260108,Birch CPA Group,Password reset,Medium,Complete,D. Patel,2026-09-13 05:43,2026-09-13 12:04
+T20260109,Birch CPA Group,VPN not connecting,Medium,Complete,B. Chen,2026-09-13 03:07,2026-09-13 03:12
+T20260110,Apex Aero Parts,Workstation slow,High,In Progress,B. Chen,2026-09-17 16:30,
+T20260111,Lakeside Dental,Server disk space alert,Medium,New,A. Rivera,2026-09-16 22:19,
+T20260112,Lakeside Dental,Workstation slow,Medium,Complete,B. Chen,2026-09-11 18:07,2026-09-11 19:45
+T20260113,Apex Aero Parts,Printer offline,High,Complete,A. Rivera,2026-09-02 20:17,2026-09-03 01:55
+T20260114,Huron Logistics,Firewall rule change,Low,New,,2026-09-18 09:45,
+T20260115,Northfield Machining,Email delivery delay,Medium,Complete,C. Okafor,2026-09-13 17:11,2026-09-14 20:45
+T20260116,Lakeside Dental,Printer offline,Medium,Complete,B. Chen,2026-09-12 11:13,2026-09-12 15:40
+T20260117,Huron Logistics,Email delivery delay,High,Complete,D. Patel,2026-09-13 11:35,2026-09-13 14:21
+T20260118,Northfield Machining,Password reset,Medium,In Progress,A. Rivera,2026-09-16 04:32,
+T20260119,Lakeside Dental,VPN not connecting,High,Complete,B. Chen,2026-08-31 02:56,2026-08-31 17:36
+T20260120,Birch CPA Group,Printer offline,Medium,Complete,D. Patel,2026-09-17 13:39,2026-09-17 15:12
+T20260121,Birch CPA Group,Backup job failed,Medium,New,D. Patel,2026-09-17 04:01,
+T20260122,Lakeside Dental,Password reset,Medium,In Progress,A. Rivera,2026-09-16 19:55,
+T20260123,Huron Logistics,MFA enrollment,Medium,Complete,C. Okafor,2026-09-10 01:16,2026-09-10 01:54
+T20260124,Birch CPA Group,VPN not connecting,Medium,Complete,D. Patel,2026-09-08 11:47,2026-09-08 15:09
+T20260125,Northfield Machining,Email delivery delay,Medium,Waiting Customer,A. Rivera,2026-09-17 14:38,
+T20260126,Lakeside Dental,Workstation slow,Medium,Waiting Customer,B. Chen,2026-09-17 17:51,
+T20260127,Northfield Machining,Workstation slow,Low,Complete,B. Chen,2026-09-10 03:17,2026-09-10 09:19
+T20260128,Lakeside Dental,Workstation slow,Medium,Complete,D. Patel,2026-09-06 12:22,2026-09-06 13:25
+T20260129,Apex Aero Parts,Printer offline,Medium,Complete,B. Chen,2026-09-16 18:13,2026-09-16 21:22
+T20260130,Lakeside Dental,Email delivery delay,Low,Complete,A. Rivera,2026-09-07 16:51,2026-09-11 02:32
+T20260131,Huron Logistics,VPN not connecting,Low,Waiting Customer,,2026-09-16 08:23,
+T20260132,Huron Logistics,Server disk space alert,Low,Complete,A. Rivera,2026-09-05 14:58,2026-09-06 03:31
+T20260133,Birch CPA Group,Printer offline,Low,Complete,A. Rivera,2026-08-31 21:17,2026-09-01 22:48
+T20260134,Northfield Machining,MFA enrollment,High,Complete,A. Rivera,2026-09-10 14:03,2026-09-11 05:59
+T20260135,Huron Logistics,MFA enrollment,Medium,Complete,C. Okafor,2026-08-31 23:13,2026-09-01 09:06
+T20260136,Huron Logistics,Backup job failed,Low,Complete,C. Okafor,2026-08-31 19:56,2026-09-01 10:16
+T20260137,Lakeside Dental,Firewall rule change,Medium,Complete,A. Rivera,2026-09-09 06:15,2026-09-09 19:42
+T20260138,Northfield Machining,VPN not connecting,Low,Complete,B. Chen,2026-09-02 14:55,2026-09-03 22:58
+T20260139,Northfield Machining,Password reset,Medium,Complete,A. Rivera,2026-09-15 22:23,2026-09-16 12:39
+T20260140,Northfield Machining,MFA enrollment,High,Complete,C. Okafor,2026-09-05 06:52,2026-09-05 11:53
+T20260141,Birch CPA Group,VPN not connecting,Medium,Complete,D. Patel,2026-08-30 20:52,2026-08-30 22:15
+T20260142,Lakeside Dental,VPN not connecting,Low,In Progress,B. Chen,2026-09-18 05:40,
+T20260143,Huron Logistics,Printer offline,Medium,Complete,B. Chen,2026-09-05 19:56,2026-09-07 19:02
+T20260144,Lakeside Dental,Backup job failed,Low,Complete,B. Chen,2026-09-13 07:09,2026-09-15 06:59
+T20260145,Apex Aero Parts,Workstation slow,High,Complete,B. Chen,2026-09-10 19:44,2026-09-10 22:01
+T20260146,Apex Aero Parts,Firewall rule change,Low,Complete,A. Rivera,2026-09-15 02:07,2026-09-17 04:41
+T20260147,Huron Logistics,Backup job failed,Medium,Complete,D. Patel,2026-09-06 23:44,2026-09-11 02:51
+T20260148,Huron Logistics,New user onboarding,Low,Complete,C. Okafor,2026-09-13 01:49,2026-09-16 02:09
+T20260149,Birch CPA Group,Backup job failed,Medium,Waiting Customer,A. Rivera,2026-09-17 01:27,
+T20260150,Birch CPA Group,Backup job failed,Critical,Complete,A. Rivera,2026-09-18 14:05,2026-09-18 15:47
+T20260151,Northfield Machining,Server disk space alert,High,Complete,A. Rivera,2026-08-30 20:32,2026-08-30 20:41
+T20260152,Birch CPA Group,Printer offline,High,Complete,B. Chen,2026-09-11 04:27,2026-09-11 10:35
+T20260153,Lakeside Dental,Printer offline,Medium,Complete,B. Chen,2026-09-14 08:17,2026-09-16 15:27
+T20260154,Apex Aero Parts,Password reset,High,Complete,A. Rivera,2026-09-09 04:13,2026-09-09 06:25
+T20260155,Birch CPA Group,Firewall rule change,Low,New,D. Patel,2026-09-17 03:41,
+T20260156,Lakeside Dental,Password reset,Critical,Complete,A. Rivera,2026-09-15 03:57,2026-09-15 04:34
+T20260157,Huron Logistics,New user onboarding,High,Complete,C. Okafor,2026-08-30 12:23,2026-08-30 13:55
+T20260158,Birch CPA Group,Email delivery delay,Medium,Complete,C. Okafor,2026-09-07 18:18,2026-09-08 13:18
+T20260159,Huron Logistics,Workstation slow,Medium,Waiting Customer,,2026-09-17 07:27,
+T20260160,Apex Aero Parts,New user onboarding,High,Complete,C. Okafor,2026-08-30 12:08,2026-09-01 03:56
+T20260161,Northfield Machining,Email delivery delay,High,Waiting Customer,D. Patel,2026-09-17 23:50,
+T20260162,Lakeside Dental,VPN not connecting,Medium,Complete,D. Patel,2026-09-07 00:26,2026-09-07 06:36
+T20260163,Lakeside Dental,Backup job failed,Critical,Complete,A. Rivera,2026-08-31 04:20,2026-08-31 08:25
+T20260164,Birch CPA Group,Firewall rule change,Medium,Complete,C. Okafor,2026-09-14 14:27,2026-09-16 04:39
+T20260165,Lakeside Dental,Server disk space alert,Medium,Complete,A. Rivera,2026-09-08 17:30,2026-09-11 07:50
+T20260166,Lakeside Dental,Printer offline,Low,Complete,B. Chen,2026-08-31 01:57,2026-09-01 19:36
+T20260167,Northfield Machining,Password reset,High,New,C. Okafor,2026-09-16 21:48,
+T20260168,Birch CPA Group,Backup job failed,Medium,Complete,C. Okafor,2026-09-04 02:36,2026-09-04 03:58
+T20260169,Huron Logistics,VPN not connecting,Low,New,B. Chen,2026-09-16 18:31,
+T20260170,Apex Aero Parts,Firewall rule change,High,New,A. Rivera,2026-09-17 01:46,
+T20260171,Apex Aero Parts,Password reset,Low,Complete,C. Okafor,2026-09-15 20:16,2026-09-16 16:47
+T20260172,Birch CPA Group,MFA enrollment,Low,Complete,A. Rivera,2026-09-11 06:29,2026-09-16 07:04
+T20260173,Birch CPA Group,VPN not connecting,Medium,Complete,C. Okafor,2026-09-08 15:31,2026-09-08 16:09
+T20260174,Northfield Machining,Server disk space alert,Medium,Complete,B. Chen,2026-09-11 08:34,2026-09-13 00:12
+T20260175,Northfield Machining,Password reset,High,Complete,A. Rivera,2026-09-01 10:38,2026-09-01 20:41
+T20260176,Birch CPA Group,Email delivery delay,High,Waiting Customer,C. Okafor,2026-09-17 04:14,
+T20260177,Northfield Machining,VPN not connecting,Medium,Complete,A. Rivera,2026-08-29 20:14,2026-08-30 10:01
+T20260178,Northfield Machining,Workstation slow,Low,Complete,C. Okafor,2026-09-08 08:22,2026-09-09 04:09
+T20260179,Apex Aero Parts,New user onboarding,Low,Complete,C. Okafor,2026-08-30 03:57,2026-09-01 07:51
+T20260180,Lakeside Dental,Firewall rule change,Medium,Complete,B. Chen,2026-09-12 06:31,2026-09-15 15:19
